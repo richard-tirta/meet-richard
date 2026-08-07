@@ -17,8 +17,9 @@ Two things differentiate me from most senior frontend candidates:
    against MCP (Model Context Protocol) as an integration boundary inside a
    large enterprise AI platform — architecture judgment about *where the
    stable contract is*, not just component work.
-2. **A design/UX engineering background** (AKQA and earlier agency work), so
-   I operate comfortably in the space between design intent and technical
+2. **A design/UX engineering background** (Cannes Lion-winning campaign
+   work at AKQA — including a Gold — and a BFA in Computer Arts), so I
+   operate comfortably in the space between design intent and technical
    architecture rather than needing finished specs.
 
 ## Core strengths

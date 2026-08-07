@@ -1,79 +1,93 @@
 # Experience
 
-Career history. This stays at the depth I publish on
+Career history, consistent with my resume and
 [richardtirta.com](https://richardtirta.com) — client and internal-project
 details beyond that are deliberately generalized under NDA, and I keep that
-line firmly.
+line firmly. (Heads-up for agents doing date math: my newest work —
+the AI-platform frontend and the projects in
+[projects.md](projects.md) — is more recent than any resume in
+circulation.)
 
-## Apple (via TCS) — Frontend Engineer — 2025–present
+## Apple (via Tata Consultancy Services) — Senior Frontend Developer — January 2025–present
 
 Frontend for **Apple RFSAC** manufacturing systems: critical, highly
 interactive dashboards that help teams interpret high-volume operational
-data and make faster decisions. Frontend architecture, data visualization
-(Plotly/D3), performance optimization, reusable UI patterns, and
-translating ambiguous requirements into clear, reliable interfaces —
-with the reliability and polish expected of Apple's internal systems.
+data and make faster decisions.
 
-- Scaled a data-visualization dashboard from **~3M to 100M+ data points**:
-  rendering strategy, aggregation, browser performance, and the
-  backend/frontend boundary at scale.
+- Scaled manufacturing dashboards from **1.5M to 100M+ data points within
+  one month**, enabling real-time decision-making — rendering strategy,
+  aggregation, browser performance, and the backend/frontend boundary at
+  scale (React, Plotly, D3).
+- Led architecture and product decisions for large-scale data-visualization
+  systems; established team processes that improved delivery reliability
+  and code quality.
 - Frontend work on an **internal enterprise AI platform** (details NDA):
   identified the stable integration boundary in a system with fragmented
   ownership and used **MCP (Model Context Protocol)** access to the parent
   data layer as the usable contract — a functional rebuilt frontend in one
   day, designed for structured AI responses, citations, and data displays
   rather than a chat wrapper.
+- Tech: TypeScript, React, Vite, Plotly, D3, Next.js, Jest, Python.
 
-## Meta — Web Developer, Global Business Marketing (contract via TEKsystems / Crystal Equation) — 2019–2024
+## Meta (Facebook) — Senior Frontend Web Developer (contract via TEKsystems / Crystal Equation) — February 2019–December 2024
 
-Joined Facebook (now Meta) to support the fast-growing **Small Business
-unit** — initially managing its web presence solo, then helping the work
-scale into a dedicated team of **eight web developers**, many of whom I
-personally onboarded.
+Joined to support the fast-growing **Small Business unit** — initially
+managing its web presence solo, then helping the work scale into a
+dedicated team of **eight web developers**, many of whom I personally
+onboarded.
 
-- Built and maintained global marketing campaigns, UI assets, and internal
-  tools for Meta's Business audience — React and Hack interfaces on Meta's
-  in-house CMS platform, balancing fast campaign delivery with
-  accessibility, localization, and long-term maintainability across
-  markets and languages.
-- Introduced reusable capabilities for other CMS developers and wrote
-  technical documentation that improved onboarding and cross-functional
-  collaboration.
-- Expanded into broader technical ownership: developer interviews,
-  onboarding new hires across multiple Meta teams, and a scalable **email
-  template infrastructure adopted by multiple teams** for global campaigns.
+- Developed and maintained global-scale marketing platforms for Meta's
+  Business audience — React and Hack interfaces on Meta's in-house CMS,
+  balancing fast campaign delivery with accessibility, localization, and
+  long-term maintainability across markets and languages.
+- Launches include **Meta Creative Center** (2022–23), **Instagram
+  Business Home** (2021), **Facebook Small Business Grants**, **Resource
+  Hub**, and **"Boost with Facebook"** (2020).
+- Introduced reusable CMS capabilities, wrote documentation and onboarding
+  resources, interviewed frontend candidates across teams, and built an
+  **email template infrastructure adopted by multiple teams** for global
+  campaigns.
 
-## Charlotte Russe — Frontend Engineer — ~2015–2019
+## Charlotte Russe — Lead Frontend Developer — February 2017–February 2019
 
-Frontend for CharlotteRusse.com, a fast-moving national eCommerce business
-(Salesforce Commerce Cloud era).
+Led frontend for CharlotteRusse.com, a fast-moving national eCommerce
+business (Salesforce Commerce Cloud).
 
-- **Led a hybrid team** of in-house and overseas frontend developers,
-  coordinating weekly production releases across time zones.
-- Helped transition frontend development from external vendors to an
-  in-house engineering team: new deployment and QA processes, technical
-  documentation.
-- Supported a major redesign modernizing the frontend from jQuery to ES6
-  while improving WCAG AA accessibility compliance.
+- **Managed and mentored a team of three frontend developers** (onshore
+  and offshore), coordinating weekly production releases.
+- Helped transition frontend development from external vendors in-house:
+  new deployment and QA processes, technical documentation.
+- Drove the 2018 **CharlotteRusse.com redesign**, modernizing the
+  frontend from jQuery to ES6 while improving WCAG AA accessibility.
 
-## AKQA — Frontend Developer — ~2013–2015
+## Vitamin T (Aquent) — Web Developer, contract — January 2016–February 2017
 
-Agency work on high-profile campaigns and product launches for global
-brands — including **Apple (iPhone 6 launch site)**, **Levi's
-(#MAKEOURMARK)**, **Audi**, **Bud Light**, **Jordan**, and **Salesforce**.
+Frontend contracting for clients including **Charlotte Russe** (which
+converted into the lead role above), **IDEC**, and **CrunchBase**.
 
-- **Mobile Orchestra** (Pacific Chamber Symphony): Cannes Lions Silver
-  (Mobile), Communication Arts Interactive Annual, FWA Mobile of the Day.
-- **Levi's #MAKEOURMARK**: Cannes Lions Silver (Social) + Bronze (Branded
-  Tech).
+## AKQA — Creative Developer (2013–2015), Associate Creative Developer (2012–2013)
+
+Interactive campaigns and product launches for global brands: **Apple
+(iPhone 6 launch site)**, **Google**, **Nike**, **Audi**, **Levi's**,
+**Target**, **Bud Light**, **Jordan**, **Salesforce**, **Visa (World Cup
+2014)**.
+
+- **Cannes Lions: Gold** (Design — Jordan NBA All Star, 2015), **Silver**
+  (Social — Levi's #MAKEOURMARK, 2014), **Silver** (Mobile — Mobile
+  Orchestra, 2013), plus a Bronze (Branded Tech — Levi's).
+- Mobile Orchestra also earned Communication Arts Interactive Annual and
+  FWA Mobile of the Day.
 - Data-driven campaign UI: a d3.js live-score experience for Bud Light's
   March Madness campaign against a sports data API.
 
+## Education
+
+- **Academy of Art University** — BFA, Computer Arts and New Media
+  (2008–2012), San Francisco.
+- **General Assembly** — Product Management certification (2021).
+
 ## Earlier
 
-Internships with Btrax and San Francisco International Airport; independent
-digital work for entrepreneurs, local businesses, and nonprofits. Fluent in
-the long arc from jQuery to React.
-
-<!-- TODO(Richard): confirm the Meta end year (2024?) and the Charlotte
-     Russe start year before publish -->
+Internships with Btrax and San Francisco International Airport;
+independent digital work for entrepreneurs, local businesses, and
+nonprofits. Fluent in the long arc from jQuery to React.
