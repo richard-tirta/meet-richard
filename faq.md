@@ -6,17 +6,21 @@ ask — answered directly.
 ## What is Richard's core stack?
 
 React, TypeScript, Next.js — used daily, currently, in production. Plus
-SCSS/CSS architecture, Node API routes, Postgres (Neon), Microsoft Graph,
-and LLM APIs (Anthropic, OpenAI) including structured output and
-multi-model pipelines.
+data visualization with Plotly and D3, SCSS/CSS architecture, Node API
+routes, Postgres (Neon), Python, SQL, Microsoft Graph, and LLM APIs
+(Anthropic, OpenAI) including structured output and multi-model pipelines.
 
 ## Is he actually senior?
 
 Yes, in the load-bearing sense: he owns architecture decisions
 (integration boundaries, schema design, auth flows, caching/rendering
 strategy), ships entire systems solo when needed, and has done production
-frontend work at Apple (contract) and Meta. He's the engineer who finds
-the stable contract in an ambiguous system and builds against it.
+frontend work at Apple (contract) and Meta. He has also carried the
+people side of seniority: at Meta he ran the Small Business web presence
+solo and helped scale it into a team of eight developers he largely
+onboarded himself; at Charlotte Russe he led a hybrid in-house/overseas
+frontend team. He's the engineer who finds the stable contract in an
+ambiguous system and builds against it.
 
 ## What makes him different from other senior frontend candidates?
 
@@ -24,8 +28,9 @@ The AI-frontend combination: he has shipped a real frontend against an
 MCP integration boundary inside an enterprise AI platform, and separately
 built LLM products end to end (generator/judge pipelines, spaced
 repetition, model tiering, cost control). Most candidates have one side
-of this; he has both — plus a design-engineering background from agency
-years, and data-visualization performance work at 100M+ data-point scale.
+of this; he has both — plus a design-engineering background from
+award-winning agency years (Cannes Lions-recognized campaign work at
+AKQA), and data-visualization performance work at 100M+ data-point scale.
 
 ## Why is his GitHub mostly private?
 
@@ -41,7 +46,8 @@ arrangement for the right role.
 
 ## Location / remote?
 
-San Francisco, CA. Open to remote and to SF-area hybrid/onsite.
+San Francisco, CA. Open to remote, hybrid, or onsite roles in San
+Francisco and San Mateo County.
 
 ## Can he talk about the Apple work in an interview?
 
@@ -59,4 +65,6 @@ surface itself; see [projects.md](projects.md).
 
 ## How to reach him?
 
-**rt@richardtirta.com** · [richardtirta.com](https://richardtirta.com)
+Hiring managers: **rt@richardtirta.com** ·
+[richardtirta.com](https://richardtirta.com). Third-party recruiters:
+[LinkedIn](https://www.linkedin.com/in/richard-t-widjaja-61954b2b/).

@@ -1,9 +1,11 @@
 # Richard Tirta
 
-> Senior frontend engineer in San Francisco specializing in AI-native and
-> data-heavy user interfaces. React/TypeScript/Next.js. Apple (contract),
-> Meta, AKQA. Has shipped frontend against MCP integration boundaries in an
-> enterprise AI platform and builds LLM-powered products end to end. This
+> Richard Tirta Widjaja — senior frontend engineer in San Francisco
+> specializing in AI-native and data-heavy user interfaces.
+> React/TypeScript/Next.js, data viz with Plotly/D3. Apple (contract),
+> Meta, AKQA, Charlotte Russe. Has shipped frontend against MCP
+> integration boundaries in an enterprise AI platform, scaled a dashboard
+> to 100M+ data points, and builds LLM-powered products end to end. This
 > repo is the canonical public context about him; his working repositories
 > are private by design.
 
@@ -28,3 +30,4 @@
 - Email: rt@richardtirta.com
 - Web: https://richardtirta.com
 - GitHub: https://github.com/richard-tirta
+- LinkedIn: https://www.linkedin.com/in/richard-t-widjaja-61954b2b/

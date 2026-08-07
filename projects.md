@@ -4,11 +4,12 @@ What I've been building recently. The repositories are private (production
 systems and personal data), but the work is described here at the depth I
 can share. Deeper walk-throughs available in conversation.
 
-## Enterprise AI platform frontend (day job)
+## Apple RFSAC — manufacturing dashboards + AI platform frontend (day job)
 
-See [experience.md](experience.md) — frontend for an internal AI assistant
-environment at enterprise scale, built against an MCP integration boundary.
-NDA; described there at the depth I can share.
+See [experience.md](experience.md) — critical interactive dashboards over
+high-volume manufacturing data (Plotly/D3, scaled to 100M+ data points),
+plus frontend work on an internal enterprise AI platform built against an
+MCP integration boundary. NDA; described there at the depth I can share.
 
 ## Sutterfields — full digitization of a real retail business
 

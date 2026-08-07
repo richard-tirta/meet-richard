@@ -24,8 +24,8 @@ Two things differentiate me from most senior frontend candidates:
 ## Core strengths
 
 - React / TypeScript / Next.js — deep, current, daily
-- Data-heavy UI and data visualization, including performance work at the
-  100M+ data-point scale
+- Data-heavy UI and data visualization (Plotly, D3), including performance
+  work at the 100M+ data-point scale
 - Frontend architecture: integration boundaries, state, caching, rendering
   strategy
 - AI application UI: LLM-driven features, structured output, judge/generator
@@ -47,4 +47,5 @@ the engineer who *builds the AI-facing product surface*.
 
 Senior frontend or AI-frontend roles — contract or full-time — where the
 interesting problems are AI product surfaces, data-intensive UI, or
-frontend architecture. San Francisco or remote.
+frontend architecture. Open to remote, hybrid, or onsite in San Francisco
+and San Mateo County.
