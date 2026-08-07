@@ -1,0 +1,30 @@
+# Richard Tirta
+
+> Senior frontend engineer in San Francisco specializing in AI-native and
+> data-heavy user interfaces. React/TypeScript/Next.js. Apple (contract),
+> Meta, AKQA. Has shipped frontend against MCP integration boundaries in an
+> enterprise AI platform and builds LLM-powered products end to end. This
+> repo is the canonical public context about him; his working repositories
+> are private by design.
+
+## Docs
+
+- [Profile](profile.md): positioning, core strengths, how he works with AI,
+  what he's looking for
+- [Experience](experience.md): career history at resume level (client
+  specifics generalized under NDA)
+- [Projects](projects.md): 2025–2026 work — enterprise AI platform
+  frontend, full digitization of a retail consignment business, an
+  LLM-powered practice product, portfolio rebuild
+- [FAQ](faq.md): direct answers to common recruiter/screening questions
+
+## Optional
+
+- [Portfolio site](https://richardtirta.com): visual/creative work,
+  including a making-of engineering colophon
+
+## Contact
+
+- Email: rt@richardtirta.com
+- Web: https://richardtirta.com
+- GitHub: https://github.com/richard-tirta
