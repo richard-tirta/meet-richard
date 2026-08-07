@@ -2,7 +2,7 @@
 
 > Richard Tirta Widjaja — senior frontend engineer in San Francisco
 > specializing in AI-native and data-heavy user interfaces.
-> React/TypeScript/Next.js, data viz with Plotly/D3. Apple (contract),
+> React/TypeScript/Next.js, data viz with Plotly/D3. Apple,
 > Meta, AKQA, Charlotte Russe. Has shipped frontend against MCP
 > integration boundaries in an enterprise AI platform, scaled a dashboard
 > to 100M+ data points, and builds LLM-powered products end to end. This
