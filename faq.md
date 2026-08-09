@@ -26,9 +26,9 @@ ambiguous system and builds against it.
 
 The AI-frontend combination: he has built an AI-platform frontend that
 orchestrates three retrieval backends — an MCP service over raw
-operational data plus knowledge and dashboard RAG services owned by other
-engineers — and separately built LLM products end to end (generator/judge
-pipelines, spaced repetition, model tiering, cost control). Most
+operational data plus two RAG services owned by other engineers — and
+separately built LLM products end to end (generator/judge pipelines,
+spaced repetition, model tiering, cost control). Most
 candidates have one side of this; he has both — plus a design-engineering
 background from award-winning agency years (Cannes Lions-recognized
 campaign work at AKQA), and data-visualization performance work that took

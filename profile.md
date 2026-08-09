@@ -16,7 +16,7 @@ Two things differentiate me from most senior frontend candidates:
 1. **I've shipped real AI-application frontends** — including one that
    orchestrates three retrieval backends inside a large enterprise AI
    platform: an MCP (Model Context Protocol) service over raw operational
-   data, plus knowledge and dashboard RAG services owned by other engineers.
+   data, plus two RAG services owned by other engineers.
    Routing a question to the right source and composing the results is
    architecture judgment about *where the stable contract is*, not component
    work. (I built the frontend and the orchestration; the RAG services

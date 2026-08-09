@@ -10,9 +10,9 @@ See [experience.md](experience.md) — critical interactive dashboards over
 high-volume manufacturing data (Plotly/D3, scaled from 1.5M to 100M+ data
 points), plus the frontend for an internal enterprise AI platform: a
 **Next.js application orchestrating three retrieval backends** — an MCP
-service over raw manufacturing data plus knowledge and dashboard RAG
-services owned by other engineers — which replaced a Chainlit prototype and
-was working in a day. NDA; described there at the depth I can share.
+service over raw operational data plus two RAG services owned by other
+engineers — which replaced a Chainlit prototype and was working in a day.
+NDA; described there at the depth I can share.
 
 To be precise about the boundary, because it matters: I built the frontend
 and the orchestration across those backends. I did not build the RAG

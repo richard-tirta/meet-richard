@@ -31,12 +31,12 @@ data and make faster decisions.
   team off continuous hotfixing toward predictable biweekly releases.
 - **Internal enterprise AI platform** (details NDA): rebuilt the frontend as
   a **Next.js application orchestrating three retrieval backends** — an
-  **MCP (Model Context Protocol)** service exposing raw manufacturing data,
-  plus knowledge and dashboard **RAG** services owned by other engineers on
-  the team. The layer I was locked out of turned out to be orchestration
-  rather than data, and everything underneath it was reachable, so I
-  re-implemented that routing and composition rather than waiting on
-  repository access — working in a day. It replaced a **Chainlit**
+  **MCP (Model Context Protocol)** service exposing raw operational data,
+  plus two **RAG** services owned by other engineers on the team. The layer
+  I didn't have access to turned out to be orchestration rather than data,
+  and everything underneath it was reachable, so I re-implemented that
+  routing and composition rather than waiting on repository access —
+  working in a day. It replaced a **Chainlit**
   prototype, and I designed the surface for structured responses,
   citations, and inline data visualization rather than a chat wrapper.
 - Tech: TypeScript, React, Next.js, MCP, Plotly, D3, Vite, Jest, Python.
