@@ -15,19 +15,31 @@ interactive dashboards that help teams interpret high-volume operational
 data and make faster decisions.
 
 - Scaled manufacturing dashboards from **1.5M to 100M+ data points within
-  one month**, enabling real-time decision-making — rendering strategy,
-  aggregation, browser performance, and the backend/frontend boundary at
-  scale (React, Plotly, D3).
+  one month**, enabling real-time decision-making. These dashboards hold
+  their dataset client-side on purpose, so sorting, filtering, and split-by
+  stay instant instead of round-tripping for recalculation — which makes
+  memory the binding constraint. At 5M+ points the page was exhausting
+  browser memory and crashing users' machines. I profiled it in Chrome
+  DevTools, then refactored a legacy class-based React codebase to
+  functional components, trimmed backend payloads to the fields the UI
+  actually rendered, and moved plotting to GPU rendering. A separate
+  unbounded memory build-up in the host platform's context layer I
+  identified and handed to the team that owned it; the ceiling moved past
+  100M once both landed.
 - Led architecture and product decisions for large-scale data-visualization
-  systems; established team processes that improved delivery reliability
-  and code quality.
-- Frontend work on an **internal enterprise AI platform** (details NDA):
-  identified the stable integration boundary in a system with fragmented
-  ownership and used **MCP (Model Context Protocol)** access to the parent
-  data layer as the usable contract — a functional rebuilt frontend in one
-  day, designed for structured AI responses, citations, and data displays
-  rather than a chat wrapper.
-- Tech: TypeScript, React, Vite, Plotly, D3, Next.js, Jest, Python.
+  systems; established code-review and release processes that moved the
+  team off continuous hotfixing toward predictable biweekly releases.
+- **Internal enterprise AI platform** (details NDA): rebuilt the frontend as
+  a **Next.js application orchestrating three retrieval backends** — an
+  **MCP (Model Context Protocol)** service exposing raw manufacturing data,
+  plus knowledge and dashboard **RAG** services owned by other engineers on
+  the team. The layer I was locked out of turned out to be orchestration
+  rather than data, and everything underneath it was reachable, so I
+  re-implemented that routing and composition rather than waiting on
+  repository access — working in a day. It replaced a **Chainlit**
+  prototype, and I designed the surface for structured responses,
+  citations, and inline data visualization rather than a chat wrapper.
+- Tech: TypeScript, React, Next.js, MCP, Plotly, D3, Vite, Jest, Python.
 
 ## Meta (Facebook) — Senior Frontend Web Developer (contract via TEKsystems / Crystal Equation) — February 2019–December 2024
 

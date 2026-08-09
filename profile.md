@@ -13,10 +13,14 @@ production apps where I own the architecture end to end.
 
 Two things differentiate me from most senior frontend candidates:
 
-1. **I've shipped real AI-application frontends**, including working directly
-   against MCP (Model Context Protocol) as an integration boundary inside a
-   large enterprise AI platform — architecture judgment about *where the
-   stable contract is*, not just component work.
+1. **I've shipped real AI-application frontends** — including one that
+   orchestrates three retrieval backends inside a large enterprise AI
+   platform: an MCP (Model Context Protocol) service over raw operational
+   data, plus knowledge and dashboard RAG services owned by other engineers.
+   Routing a question to the right source and composing the results is
+   architecture judgment about *where the stable contract is*, not component
+   work. (I built the frontend and the orchestration; the RAG services
+   themselves were colleagues' work.)
 2. **A design/UX engineering background** (Cannes Lion-winning campaign
    work at AKQA — including a Gold — and a BFA in Computer Arts), so I
    operate comfortably in the space between design intent and technical

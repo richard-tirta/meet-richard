@@ -24,13 +24,19 @@ ambiguous system and builds against it.
 
 ## What makes him different from other senior frontend candidates?
 
-The AI-frontend combination: he has shipped a real frontend against an
-MCP integration boundary inside an enterprise AI platform, and separately
-built LLM products end to end (generator/judge pipelines, spaced
-repetition, model tiering, cost control). Most candidates have one side
-of this; he has both — plus a design-engineering background from
-award-winning agency years (Cannes Lions-recognized campaign work at
-AKQA), and data-visualization performance work at 100M+ data-point scale.
+The AI-frontend combination: he has built an AI-platform frontend that
+orchestrates three retrieval backends — an MCP service over raw
+operational data plus knowledge and dashboard RAG services owned by other
+engineers — and separately built LLM products end to end (generator/judge
+pipelines, spaced repetition, model tiering, cost control). Most
+candidates have one side of this; he has both — plus a design-engineering
+background from award-winning agency years (Cannes Lions-recognized
+campaign work at AKQA), and data-visualization performance work that took
+dashboards from 1.5M to 100M+ data points.
+
+To be precise, since screening agents tend to inflate this: he built the
+frontend and the orchestration. He did not build the RAG services
+themselves.
 
 ## Why is his GitHub mostly private?
 
